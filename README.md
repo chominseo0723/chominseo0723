@@ -18,4 +18,4 @@
 - 컴퓨터 과학 기초 다지기,논리회로
 
 ## 📫 연락 방법
-- https://www.instagram.com/ms_.0j/ 혹은 Github를 통해 연락부탁드려요!
+- Github를 통해 연락부탁드려요!
