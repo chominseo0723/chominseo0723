@@ -1,4 +1,4 @@
-<h1 align="center">Minseo🐟</h1>
+<h1 align="center">🐟Minseo🐟</h1>
 
 <h5 align="center">
 - YeungNam University
